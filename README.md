@@ -6,4 +6,4 @@
 
 ## Live Site Link 
 
-[Link](https://hianshul07.github.io/HTML-CSS-project-1/)
+[Link](https://hianshul07.github.io/HTML-CSS-project-2/)
